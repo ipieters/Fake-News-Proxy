@@ -1,7 +1,10 @@
 # Welcome to Fake News Proxy 👋
 ![Version](https://img.shields.io/badge/version-v1-blue.svg?cacheSeconds=2592000)
 
-> Client Server Proxy that receives the content of a webpage and changes the words &#34;Floppy&#34; and &#34;Italy&#34; 
+>Program Details: Client Server Proxy that receives the content of a webpage and >changes the words #34;F\floppy#34; and #34;Italy#34;
+>something else, in this case to #34;Trolly#34; and #34;Germany#34; respectively. It also looks for picture containing the word #34;F\floppy#34; and changes
+>them to another image, in this case an image in Professor's Carey website of a trollface. 
+ 
 
 ### 🏠 [Homepage]( * https://github.com/ipieters/Fake-News-Proxy)
 
