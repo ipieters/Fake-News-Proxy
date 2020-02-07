@@ -14,7 +14,15 @@ To compile g++ fakeNewsProxy.cpp-o outputFileName
 ## Usage
 
 ```sh
-Change browsers manual proxy config to client's computer ip address and desired port. Then to run program after compiling: 1. Go to program Directory. 2. Type ./outputFileName followed by proxy port number, i.e ./fakeNewsProxy 8080. 3. On browser with already configured proxy, enter a website containing one of the target words and press enter. 4. See the changes on the website
+Change browsers manual proxy config to client's computer ip address and desired port. Then to run program after compiling: 
+
+1. Go to program Directory. 
+
+2. Type ./outputFileName followed by proxy port number, i.e ./fakeNewsProxy 8080. 
+
+3. On browser with already configured proxy, enter a website containing one of the target words and press enter. 
+
+4. See the changes on the website
 ```
 ## Test
 
