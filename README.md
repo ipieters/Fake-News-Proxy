@@ -14,18 +14,20 @@ To compile g++ fakeNewsProxy.cpp-o outputFileName
 ## Usage
 
 ```sh
-Change browsers manual proxy config to client\'s computer ip address and desired port. Then to run program after compiling:\n 1) Go to program Directory\n2)Type ./outputFileName followed by proxy port number, i.e\n\t ./fakeNewsProxy 8080. 3) On browser with already configured proxy, enter a website containing one of the target words and press enter\n4) See the changes on the website
+Change browsers manual proxy config to client's computer ip address and desired port. Then to run program after compiling: 1. Go to program Directory. 2. Type ./outputFileName followed by proxy port number, i.e ./fakeNewsProxy 8080. 3. On browser with already configured proxy, enter a website containing one of the target words and press enter. 4. See the changes on the website
 ```
 ## Test
 
 ```sh
-This software was tested in Google Chrome and Firefox browsers. Both in local computer as well as the University of Calgary\'s. Tested on the test website provided by Prof. Carey. 
+This software was tested in Google Chrome and Firefox browsers. Both in local computer as well as the University of Calgary's. Tested on the test website provided by Prof. Carey. 
 ```
 ## Issues
 
 ```sh
-Doesn\'t work on encrypted websites. Also sometimes, on websites with a lot of content, the website doesn\'t load or takes a lot of time
+Doesn't work on encrypted websites. Also sometimes, on websites with a lot of content, the website doesn't load or takes a lot of time
 ```
+
+
 
 ## Author
 
